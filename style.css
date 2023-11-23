@@ -52,8 +52,8 @@ button {
 #hero {
   position: absolute;
   background: #222222;
-  width: 1850px;
-  height: 877px;
+  width: 1668px;
+  height: 788px;
   margin-top: 43px;
 }
 
@@ -134,7 +134,7 @@ button {
   position: absolute;
   text-align: center;
   top: 550px;
-  left: 760px;
+  left: 650px;
 }
 
 .hero-nav h1 {
